@@ -2,7 +2,7 @@
 
 ![Скриншот интерфейса](static/screenshot.png)
 
-🔗 **Делой:** [https://exchange-rates-ogdd.onrender.com](https://exchange-rates-ogdd.onrender.com)  
+🔗 **Деплой проекта:** [https://exchange-rates-ogdd.onrender.com](https://exchange-rates-ogdd.onrender.com)  
 📁 **GitHub репозиторий:** [https://github.com/pvlbrzn/Exchange_rates](https://github.com/pvlbrzn/Exchange_rates)
 
 ## Описание проекта
@@ -66,11 +66,6 @@ docker run -p 5000:5000 exchange-flask-app
 * `Dockerfile`  — Создаёт образ для запуска Flask-приложения
 * `requirements.txt`  — Список зависимостей (Flask, requests и др.)
 * `README.md`  — Инструкция по установке и запуску
-
-
-## Ссылка на деплой (Render)
-
-[Открыть приложение](https://your-render-url.onrender.com)
 
 ## Лицензия
 
